@@ -1,0 +1,324 @@
+{
+  "education_modules": [
+    {
+      "id": 1,
+      "grade": "Lớp 9",
+      "subject": "Địa lý",
+      "title": "VÙNG ĐỒNG BẰNG SÔNG CỬU LONG",
+      "description": "Hiểu đặc điểm tự nhiên, văn hóa An Giang - Kiên Giang",
+      "learning_objectives": [
+        "Nhận biết vị trí địa lý của vùng",
+        "Hiểu đặc điểm tự nhiên và tài nguyên",
+        "Phân tích các ngành kinh tế chủ đạo",
+        "Nhận diện văn hóa đặc trưng"
+      ],
+      "duration": "2 tiết",
+      "difficulty": "Trung bình",
+      "icon": "🗺️",
+      "virtual_tour": "Khu vực Tứ giác Long Xuyên",
+      "video": {
+        "title": "Sông Hậu - Mạch máu của An Giang",
+        "duration": "5 phút",
+        "url": "video/song_hau.mp4"
+      },
+      "interactive_exercises": [
+        {
+          "type": "bản đồ",
+          "question": "Sau khi xem video, hãy xác định trên bản đồ:",
+          "tasks": [
+            "Hướng chảy của sông Hậu qua An Giang",
+            "3 huyện ven sông chịu ảnh hưởng lũ hàng năm",
+            "Lợi ích và thách thức của lũ đối với nông nghiệp"
+          ]
+        },
+        {
+          "type": "trắc nghiệm",
+          "question": "Chọn câu trả lời đúng:",
+          "options": [
+            "Sông Hậu là phân lưu của sông Mekong",
+            "An Giang có diện tích lớn nhất ĐBSCL",
+            "Lũ mang lại phù sa cho đồng bằng",
+            "Tất cả đều đúng"
+          ],
+          "answer": 3
+        }
+      ],
+      "expert_interview": {
+        "name": "PGS.TS Nguyễn Văn A",
+        "position": "Đại học An Giang",
+        "topic": "Giải thích về phù sa và hệ thống sông ngòi"
+      },
+      "resources": [
+        "bài_giang_lop9.pdf",
+        "ban_do_tu_giac_long_xuyen.jpg",
+        "bieu_do_luu_vong_song_hau.png"
+      ],
+      "student_count": 1542,
+      "rating": 4.6,
+      "completion_rate": "85%"
+    },
+    {
+      "id": 2,
+      "grade": "Lớp 10",
+      "subject": "Lịch sử",
+      "title": "VĂN HÓA ÓC EO",
+      "description": "Khám phá nền văn minh cổ đại ở Nam Bộ",
+      "learning_objectives": [
+        "Hiểu về nguồn gốc văn hóa Óc Eo",
+        "Nhận diện các di chỉ khảo cổ",
+        "Phân tích đặc điểm văn hóa",
+        "Đánh giá giá trị di sản"
+      ],
+      "duration": "2 tiết",
+      "difficulty": "Trung bình",
+      "icon": "🏺",
+      "virtual_tour": {
+        "location": "Di chỉ Óc Eo",
+        "type": "360°",
+        "url": "virtual_tour/oc_eo_360"
+      },
+      "audio_guide": {
+        "speaker": "Nhà khảo cổ học",
+        "content": "Chia sẻ về hiện vật tìm thấy",
+        "duration": "6 phút"
+      },
+      "creative_activities": [
+        {
+          "title": "Thiết kế sản phẩm văn hóa",
+          "description": "Dựa trên hoa văn Óc Eo, thiết kế một sản phẩm văn hóa đương đại",
+          "suggestions": ["Áo thun", "Túi xách", "Bìa sách", "Đồ lưu niệm"],
+          "submissions": 876,
+          "best_designs": ["design1.jpg", "design2.jpg", "design3.jpg"]
+        }
+      ],
+      "interactive_data": {
+        "type": "timeline",
+        "data": [
+          {"year": "Thế kỷ 1-7", "event": "Phát triển rực rỡ"},
+          {"year": "1920", "event": "Phát hiện di chỉ"},
+          {"year": "1944", "event": "Đặt tên Óc Eo"},
+          {"year": "2012", "event": "Công nhận di tích quốc gia đặc biệt"}
+        ]
+      },
+      "resources": [
+        "timeline_oc_eo.json",
+        "hoa_van_oc_eo.ai",
+        "bai_khao_co_hoc.pdf"
+      ],
+      "student_count": 2034,
+      "rating": 4.8,
+      "completion_rate": "92%"
+    },
+    {
+      "id": 3,
+      "grade": "Lớp 11",
+      "subject": "Sinh học",
+      "title": "HỆ SINH THÁI RỪNG TRÀM",
+      "description": "Nghiên cứu hệ sinh thái đặc trưng U Minh Thượng",
+      "learning_objectives": [
+        "Hiểu cấu trúc hệ sinh thái",
+        "Nhận diện các loài đặc trưng",
+        "Phân tích chuỗi thức ăn",
+        "Đánh giá đa dạng sinh học"
+      ],
+      "duration": "2 tiết",
+      "difficulty": "Khó",
+      "icon": "🌿",
+      "field_trip": {
+        "location": "Vườn quốc gia U Minh Thượng",
+        "virtual": true,
+        "highlights": ["Rừng tràm", "Đầm lầy", "Kênh rạch", "Động vật hoang dã"]
+      },
+      "species_database": [
+        {
+          "name": "Cây tràm",
+          "scientific_name": "Melaleuca cajuputi",
+          "characteristics": "Cây gỗ, vỏ trắng, lá nhỏ",
+          "role": "Loài chủ đạo"
+        },
+        {
+          "name": "Cò trắng",
+          "scientific_name": "Egretta alba",
+          "characteristics": "Lông trắng, mỏ vàng",
+          "role": "Chim nước"
+        },
+        {
+          "name": "Cá lóc",
+          "scientific_name": "Channa striata",
+          "characteristics": "Da đen, thân dài",
+          "role": "Động vật thủy sinh"
+        }
+      ],
+      "activities": [
+        {
+          "type": "quan sát",
+          "task": "Quan sát và ghi chép về 3 loài động thực vật",
+          "tools": ["Kính lúp", "Máy ảnh", "Sổ tay"]
+        },
+        {
+          "type": "phân tích",
+          "task": "Vẽ sơ đồ chuỗi thức ăn trong rừng tràm",
+          "resources": ["hinh_anh_cac_loai.jpg", "thong_tin_sinh_hoc.pdf"]
+        }
+      ],
+      "resources": [
+        "huong_dan_quan_sat.pdf",
+        "database_sinh_vat.json",
+        "video_he_sinh_thai.mp4"
+      ],
+      "student_count": 1789,
+      "rating": 4.7,
+      "completion_rate": "88%"
+    },
+    {
+      "id": 4,
+      "grade": "Lớp 12",
+      "subject": "Địa lý",
+      "title": "PHÁT TRIỂN DU LỊCH BỀN VỮNG",
+      "description": "Nghiên cứu mô hình du lịch An Giang - Kiên Giang",
+      "learning_objectives": [
+        "Hiểu khái niệm du lịch bền vững",
+        "Phân tích tiềm năng du lịch",
+        "Đề xuất giải pháp phát triển",
+        "Đánh giá tác động môi trường"
+      ],
+      "duration": "3 tiết",
+      "difficulty": "Khó",
+      "icon": "🌏",
+      "case_studies": [
+        {
+          "title": "Du lịch cộng đồng làng Chăm",
+          "location": "Làng Chăm Châu Giang",
+          "aspects": ["Văn hóa", "Kinh tế", "Môi trường", "Xã hội"],
+          "success_factors": ["Bảo tồn văn hóa", "Tạo việc làm", "Giáo dục cộng đồng"]
+        },
+        {
+          "title": "Du lịch sinh thái U Minh",
+          "location": "Vườn quốc gia U Minh Thượng",
+          "aspects": ["Bảo tồn", "Giáo dục", "Nghiên cứu", "Du lịch"],
+          "success_factors": ["Bảo vệ môi trường", "Nâng cao nhận thức", "Phát triển bền vững"]
+        }
+      ],
+      "project_based_learning": {
+        "title": "Thiết kế dự án du lịch bền vững",
+        "requirements": [
+          "Phân tích hiện trạng địa phương",
+          "Đề xuất sản phẩm du lịch",
+          "Đánh giá tác động",
+          "Kế hoạch marketing"
+        ],
+        "deliverables": ["Báo cáo", "Thuyết trình", "Poster", "Video"],
+        "submissions": 645,
+        "best_projects": ["project1.pdf", "project2.pdf", "project3.pdf"]
+      },
+      "resources": [
+        "mo_hinh_du_lich_ben_vung.pdf",
+        "case_study_angiang.docx",
+        "template_du_an.pptx"
+      ],
+      "student_count": 2345,
+      "rating": 4.9,
+      "completion_rate": "94%"
+    },
+    {
+      "id": 5,
+      "grade": "Lớp 10",
+      "subject": "Mỹ thuật",
+      "title": "HOA VĂN ÓC EO TRONG NGHỆ THUẬT ĐƯƠNG ĐẠI",
+      "description": "Ứng dụng hoa văn cổ vào thiết kế hiện đại",
+      "learning_objectives": [
+        "Nhận diện hoa văn Óc Eo",
+        "Phân tích giá trị thẩm mỹ",
+        "Sáng tạo sản phẩm ứng dụng",
+        "Kết nối truyền thống - hiện đại"
+      ],
+      "duration": "2 tiết",
+      "difficulty": "Trung bình",
+      "icon": "🎨",
+      "art_study": {
+        "patterns": ["hình học", "hoa lá", "động vật", "biểu tượng"],
+        "colors": ["đất nung", "gốm trắng", "xanh đồng", "vàng kim loại"],
+        "materials": ["gốm", "đá", "kim loại", "vải"]
+      },
+      "design_workshop": {
+        "tools": ["Adobe Illustrator", "Canva", "Figma", "Photoshop"],
+        "outputs": ["Logo", "Pattern", "Sản phẩm in ấn", "Thiết kế 3D"],
+        "examples": ["thiet_ke_1.ai", "thiet_ke_2.png", "thiet_ke_3.jpg"]
+      },
+      "exhibition": {
+        "title": "Triển lãm Óc Eo Tái Sinh",
+        "date": "2024-12-15",
+        "location": "Bảo tàng An Giang",
+        "participants": 567
+      },
+      "resources": [
+        "hoa_van_oc_eo_vector.ai",
+        "huong_dan_thiet_ke.pdf",
+        "video_workshop.mp4"
+      ],
+      "student_count": 1567,
+      "rating": 4.8,
+      "completion_rate": "90%"
+    },
+    {
+      "id": 6,
+      "grade": "Lớp 9",
+      "subject": "Giáo dục công dân",
+      "title": "BẢO TỒN DI SẢN VĂN HÓA ĐỊA PHƯƠNG",
+      "description": "Nhận thức và hành động bảo vệ di sản",
+      "learning_objectives": [
+        "Hiểu giá trị di sản văn hóa",
+        "Nhận diện di sản địa phương",
+        "Phân tích thách thức bảo tồn",
+        "Đề xuất hành động cụ thể"
+      ],
+      "duration": "2 tiết",
+      "difficulty": "Dễ",
+      "icon": "🏛️",
+      "local_heritage": [
+        {
+          "name": "Di tích Óc Eo",
+          "type": "Khảo cổ",
+          "value": "Lịch sử, văn hóa, khoa học",
+          "threats": ["Xói mòn", "Xâm hại", "Thiếu kinh phí"]
+        },
+        {
+          "name": "Làng nghề dệt Chăm",
+          "type": "Phi vật thể",
+          "value": "Văn hóa, kinh tế, xã hội",
+          "threats": ["Mai một nghề", "Thiếu kế thừa", "Cạnh tranh"]
+        },
+        {
+          "name": "Kiến trúc Hà Tiên",
+          "type": "Kiến trúc",
+          "value": "Nghệ thuật, lịch sử, du lịch",
+          "threats": ["Xuống cấp", "Đô thị hóa", "Bảo trì kém"]
+        }
+      ],
+      "action_plan": {
+        "individual": ["Tìm hiểu", "Truyền thông", "Tham quan có trách nhiệm"],
+        "community": ["Vận động", "Tham gia bảo tồn", "Giáo dục"],
+        "government": ["Đề xuất chính sách", "Kêu gọi đầu tư", "Quy hoạch"]
+      },
+      "resources": [
+        "danh_sach_di_san.pdf",
+        "ke_hoach_hanh_dong.docx",
+        "case_study_bao_ton.pptx"
+      ],
+      "student_count": 1987,
+      "rating": 4.5,
+      "completion_rate": "82%"
+    }
+  ],
+  "metadata": {
+    "total_modules": 6,
+    "total_students": 11264,
+    "avg_rating": 4.72,
+    "completion_avg": "88.5%",
+    "grades_covered": ["Lớp 9", "Lớp 10", "Lớp 11", "Lớp 12"],
+    "subjects": ["Địa lý", "Lịch sử", "Sinh học", "Mỹ thuật", "Giáo dục công dân"],
+    "last_updated": "2024-10-20",
+    "schools_participated": 45,
+    "teacher_count": 123
+  }
+}

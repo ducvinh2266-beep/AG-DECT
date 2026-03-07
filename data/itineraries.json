@@ -1,0 +1,414 @@
+[
+  {
+    "id": "family_culture_food_2d1n",
+    "name": "Văn Hóa - Ẩm Thực Gia Đình",
+    "description": "Hành trình dành cho gia đình có trẻ nhỏ, khám phá văn hóa và ẩm thực địa phương",
+    "companion": "family",
+    "interests": ["culture", "food"],
+    "duration": "2d1n",
+    "budget": "medium",
+    "activity_level": "light",
+    "estimated_cost": 3000000,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ngày 1 - Khám phá văn hóa Chăm & ẩm thực đặc trưng",
+        "activities": [
+          {
+            "time": "08:00",
+            "activity": "Xuất phát từ TP. Long Xuyên",
+            "description": "Khởi hành từ trung tâm thành phố Long Xuyên"
+          },
+          {
+            "time": "09:30",
+            "activity": "Làng dệt Chăm Châu Giang",
+            "description": "Tham quan làng nghề, xem nghệ nhân dệt thổ cẩm. Trẻ em được thử dệt thủ công"
+          },
+          {
+            "time": "11:30",
+            "activity": "Thánh đường Hồi giáo Masjid Jamiul Azhar",
+            "description": "Nghe audio từ Imam địa phương kể về lịch sử cộng đồng"
+          },
+          {
+            "time": "12:30",
+            "activity": "Bữa trưa đặc sản Chăm",
+            "description": "Thưởng thức cà ri bò, bánh gừng tại nhà dân"
+          },
+          {
+            "time": "14:30",
+            "activity": "Làng nổi Châu Đốc",
+            "description": "Di chuyển bằng thuyền máy, mua cá tươi, xem đời sống sông nước"
+          },
+          {
+            "time": "17:00",
+            "activity": "Nhận phòng khách sạn",
+            "description": "Khách sạn gia đình ở Châu Đốc"
+          },
+          {
+            "time": "19:00",
+            "activity": "Ẩm thực đường phố",
+            "description": "Tour đi bộ ngắn quanh chợ đêm Châu Đốc"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ngày 2 - Tâm linh nhẹ nhàng & thiên nhiên",
+        "activities": [
+          {
+            "time": "07:30",
+            "activity": "Miếu Bà Chúa Xứ Núi Sam",
+            "description": "Tham quan vào sáng sớm để tránh đông đúc"
+          },
+          {
+            "time": "09:30",
+            "activity": "Lăng Thoại Ngọc Hầu",
+            "description": "Nghe lời kể audio từ học sinh địa phương về lịch sử"
+          },
+          {
+            "time": "11:00",
+            "activity": "Rời Châu Đốc, về Long Xuyên",
+            "description": "Di chuyển về Long Xuyên"
+          },
+          {
+            "time": "12:30",
+            "activity": "Bữa trưa đặc sản - Lẩu mắm",
+            "description": "Thưởng thức lẩu mắm tại nhà hàng gia đình"
+          },
+          {
+            "time": "14:00",
+            "activity": "Công viên Trần Hưng Đạo",
+            "description": "Thư giãn cuối ngày tại công viên ven sông"
+          },
+          {
+            "time": "15:30",
+            "activity": "Kết thúc hành trình",
+            "description": "Tạm biệt và hẹn gặp lại"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "couple_nature_adventure_3d2n",
+    "name": "Thiên Nhiên - Phiêu Lưu Lãng Mạn",
+    "description": "Hành trình dành cho cặp đôi, khám phá thiên nhiên hùng vĩ và trải nghiệm phiêu lưu",
+    "companion": "couple",
+    "interests": ["nature", "adventure"],
+    "duration": "3d2n",
+    "budget": "high",
+    "activity_level": "active",
+    "estimated_cost": 6000000,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ngày 1 - Khám phá Núi Cấm",
+        "activities": [
+          {
+            "time": "07:00",
+            "activity": "Xuất phát từ Long Xuyên",
+            "description": "Di chuyển đến Núi Cấm"
+          },
+          {
+            "time": "09:00",
+            "activity": "Leo núi Cấm",
+            "description": "Khám phá các đỉnh núi, ngắm toàn cảnh từ trên cao"
+          },
+          {
+            "time": "12:00",
+            "activity": "Bữa trưa chay tại chùa Vạn Linh",
+            "description": "Thưởng thức bữa ăn chay thanh tịnh"
+          },
+          {
+            "time": "14:00",
+            "activity": "Tham quan chùa Phật Lớn",
+            "description": "Chiêm bái tượng Phật lớn nhất miền Tây"
+          },
+          {
+            "time": "16:00",
+            "activity": "Ngắm hoàng hôn trên đỉnh núi",
+            "description": "Trải nghiệm hoàng hôn tuyệt đẹp"
+          },
+          {
+            "time": "18:00",
+            "activity": "Nghỉ đêm tại resort trên núi",
+            "description": "Check-in resort với view núi rừng"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ngày 2 - Rừng Tràm Trà Sư",
+        "activities": [
+          {
+            "time": "06:00",
+            "activity": "Ngắm bình minh",
+            "description": "Thưởng thức bình minh trên núi"
+          },
+          {
+            "time": "08:00",
+            "activity": "Di chuyển đến Rừng Tràm Trà Sư",
+            "description": "Từ Núi Cấm đến Trà Sư"
+          },
+          {
+            "time": "10:00",
+            "activity": "Xuồng máy khám phá rừng tràm",
+            "description": "Đi xuồng xuyên rừng, ngắm hệ sinh thái"
+          },
+          {
+            "time": "12:00",
+            "activity": "Bữa trưa đặc sản đồng quê",
+            "description": "Cá lóc nướng trui, canh chua cá linh"
+          },
+          {
+            "time": "14:00",
+            "activity": "Chèo thuyền kayak",
+            "description": "Trải nghiệm chèo thuyền tự do"
+          },
+          {
+            "time": "16:00",
+            "activity": "Ngắm chim về tổ",
+            "description": "Quan sát các loài chim hoang dã"
+          },
+          {
+            "time": "18:00",
+            "activity": "Nghỉ đêm tại homestay",
+            "description": "Trải nghiệm ở nhà dân ven rừng"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ngày 3 - Di tích lịch sử và về lại thành phố",
+        "activities": [
+          {
+            "time": "07:00",
+            "activity": "Điểm tâm sáng",
+            "description": "Bữa sáng với bánh xèo, hủ tiếu"
+          },
+          {
+            "time": "08:30",
+            "activity": "Di tích Óc Eo",
+            "description": "Tham quan di chỉ khảo cổ"
+          },
+          {
+            "time": "11:00",
+            "activity": "Làng nghề truyền thống",
+            "description": "Xem làm đường thốt nốt, mua quà"
+          },
+          {
+            "time": "13:00",
+            "activity": "Bữa trưa chia tay",
+            "description": "Bữa cơm gia đình trước khi về"
+          },
+          {
+            "time": "15:00",
+            "activity": "Về lại Long Xuyên",
+            "description": "Kết thúc hành trình 3 ngày"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "friends_all_interests_3d2n",
+    "name": "Trải Nghiệm Toàn Diện Nhóm Bạn",
+    "description": "Hành trình dành cho nhóm bạn, kết hợp tất cả trải nghiệm từ văn hóa đến phiêu lưu",
+    "companion": "friends",
+    "interests": ["nature", "culture", "food", "adventure", "spiritual"],
+    "duration": "3d2n",
+    "budget": "medium",
+    "activity_level": "medium",
+    "estimated_cost": 4500000,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ngày 1 - Văn hóa và ẩm thực địa phương",
+        "activities": [
+          {
+            "time": "08:00",
+            "activity": "Xuất phát từ Long Xuyên",
+            "description": "Khởi hành sớm từ trung tâm thành phố"
+          },
+          {
+            "time": "09:30",
+            "activity": "Chợ nổi Long Xuyên",
+            "description": "Tham quan chợ nổi, trải nghiệm văn hóa sông nước"
+          },
+          {
+            "time": "12:00",
+            "activity": "Bữa trưa đặc sản",
+            "description": "Bánh hỏi heo quay, bún cá"
+          },
+          {
+            "time": "14:00",
+            "activity": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+            "description": "Tìm hiểu về cuộc đời và sự nghiệp của Bác Tôn"
+          },
+          {
+            "time": "16:00",
+            "activity": "Di chuyển đến Châu Đốc",
+            "description": "Check-in khách sạn"
+          },
+          {
+            "time": "18:00",
+            "activity": "Chợ đêm Châu Đốc",
+            "description": "Khám phá ẩm thực đường phố về đêm"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ngày 2 - Tâm linh và thiên nhiên",
+        "activities": [
+          {
+            "time": "07:00",
+            "activity": "Miếu Bà Chúa Xứ",
+            "description": "Tham quan di tích tâm linh nổi tiếng"
+          },
+          {
+            "time": "09:00",
+            "activity": "Lăng Thoại Ngọc Hầu",
+            "description": "Tìm hiểu lịch sử khai phá vùng đất"
+          },
+          {
+            "time": "11:00",
+            "activity": "Di chuyển đến Núi Cấm",
+            "description": "Lên núi bằng xe điện"
+          },
+          {
+            "time": "13:00",
+            "activity": "Bữa trưa chay trên núi",
+            "description": "Thưởng thức ẩm thực chay thanh tịnh"
+          },
+          {
+            "time": "15:00",
+            "activity": "Khám phá Núi Cấm",
+            "description": "Tham quan chùa Vạn Linh, chùa Phật Lớn"
+          },
+          {
+            "time": "18:00",
+            "activity": "Nghỉ đêm tại Núi Cấm",
+            "description": "Trải nghiệm không khí trong lành trên núi"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ngày 3 - Phiêu lưu và mua sắm đặc sản",
+        "activities": [
+          {
+            "time": "06:00",
+            "activity": "Ngắm bình minh trên núi",
+            "description": "Trải nghiệm bình minh tuyệt đẹp"
+          },
+          {
+            "time": "08:00",
+            "activity": "Xuống núi, di chuyển về Long Xuyên",
+            "description": "Tạm biệt Núi Cấm"
+          },
+          {
+            "time": "10:00",
+            "activity": "Mua sắm đặc sản",
+            "description": "Mua khô cá lóc, mắm, đường thốt nốt làm quà"
+          },
+          {
+            "time": "12:00",
+            "activity": "Bữa trưa chia tay",
+            "description": "Thưởng thức lẩu mắm - đặc sản An Giang"
+          },
+          {
+            "time": "14:00",
+            "activity": "Kết thúc hành trình",
+            "description": "Chia tay và hẹn gặp lại"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alone_nature_spiritual_2d1n",
+    "name": "Tĩnh Tâm - Thiền Định Một Mình",
+    "description": "Hành trình dành cho người đi một mình, tìm kiếm sự tĩnh lặng và chiêm nghiệm",
+    "companion": "alone",
+    "interests": ["nature", "spiritual"],
+    "duration": "2d1n",
+    "budget": "low",
+    "activity_level": "medium",
+    "estimated_cost": 1500000,
+    "days": [
+      {
+        "day": 1,
+        "title": "Ngày 1 - Tĩnh tâm trên núi",
+        "activities": [
+          {
+            "time": "07:00",
+            "activity": "Xuất phát từ Châu Đốc lên Núi Cấm",
+            "description": "Di chuyển bằng xe điện"
+          },
+          {
+            "time": "09:00",
+            "activity": "Thiền định tại chùa Vạn Linh",
+            "description": "Tham gia khóa thiền ngắn"
+          },
+          {
+            "time": "12:00",
+            "activity": "Bữa trưa chay thanh tịnh",
+            "description": "Dùng bữa cùng các nhà sư"
+          },
+          {
+            "time": "14:00",
+            "activity": "Đi bộ khám phá núi",
+            "description": "Đi bộ các tuyến đường mòn trên núi"
+          },
+          {
+            "time": "16:00",
+            "activity": "Ngắm hoàng hôn",
+            "description": "Chiêm ngưỡng hoàng hôn từ đỉnh núi"
+          },
+          {
+            "time": "18:00",
+            "activity": "Nghỉ đêm tại thiền viện",
+            "description": "Trải nghiệm cuộc sống tu hành"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ngày 2 - Chiêm nghiệm và trở về",
+        "activities": [
+          {
+            "time": "05:00",
+            "activity": "Tham gia khóa lễ sáng",
+            "description": "Tham dự buổi lễ cầu nguyện buổi sáng"
+          },
+          {
+            "time": "07:00",
+            "activity": "Điểm tâm sáng",
+            "description": "Bữa sáng chay đơn giản"
+          },
+          {
+            "time": "08:30",
+            "activity": "Thiền hành",
+            "description": "Đi bộ thiền trong rừng thông"
+          },
+          {
+            "time": "11:00",
+            "activity": "Viết nhật ký hành trình",
+            "description": "Ghi lại cảm xúc và suy ngẫm"
+          },
+          {
+            "time": "13:00",
+            "activity": "Bữa trưa và chuẩn bị về",
+            "description": "Bữa trưa cuối cùng trên núi"
+          },
+          {
+            "time": "15:00",
+            "activity": "Xuống núi và kết thúc",
+            "description": "Trở về với cuộc sống thường nhật"
+          }
+        ]
+      }
+    ]
+  }
+]
